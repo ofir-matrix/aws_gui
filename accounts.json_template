@@ -1,0 +1,21 @@
+[
+	{
+		"name": "LRU",
+		"ak": "***",
+		"sk": "***",
+		"region": "il-central-1"
+	},
+	{
+		"name": "OXY",
+		"ak": "***",
+		"sk": "***",
+		"region": "eu-west-1"
+	},
+	{
+		"name": "LRT",
+		"ak": "***",
+		"sk": "***",
+		"region": "il-central-1"
+	}
+
+]
